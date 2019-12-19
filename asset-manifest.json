@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moviapp-redux/static/css/main.3ba39aa0.chunk.css",
+    "main.js": "/moviapp-redux/static/js/main.f69b3eea.chunk.js",
+    "main.js.map": "/moviapp-redux/static/js/main.f69b3eea.chunk.js.map",
+    "runtime-main.js": "/moviapp-redux/static/js/runtime-main.93abeb93.js",
+    "runtime-main.js.map": "/moviapp-redux/static/js/runtime-main.93abeb93.js.map",
+    "static/js/2.6eb4e6f8.chunk.js": "/moviapp-redux/static/js/2.6eb4e6f8.chunk.js",
+    "static/js/2.6eb4e6f8.chunk.js.map": "/moviapp-redux/static/js/2.6eb4e6f8.chunk.js.map",
+    "index.html": "/moviapp-redux/index.html",
+    "precache-manifest.0ef5ffa6cc1e1c5666d394344fa2cba4.js": "/moviapp-redux/precache-manifest.0ef5ffa6cc1e1c5666d394344fa2cba4.js",
+    "service-worker.js": "/moviapp-redux/service-worker.js",
+    "static/css/main.3ba39aa0.chunk.css.map": "/moviapp-redux/static/css/main.3ba39aa0.chunk.css.map",
+    "static/js/2.6eb4e6f8.chunk.js.LICENSE": "/moviapp-redux/static/js/2.6eb4e6f8.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93abeb93.js",
+    "static/js/2.6eb4e6f8.chunk.js",
+    "static/css/main.3ba39aa0.chunk.css",
+    "static/js/main.f69b3eea.chunk.js"
+  ]
+}
